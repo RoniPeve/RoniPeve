@@ -20,7 +20,7 @@
 <div align="center">
 <a href="https://github.com/RoniPeve/ProyectoBiblioteca" target="_blank"><img src="https://github.com/RoniPeve/ProyectoBiblioteca/assets/55811703/76bfb4e2-7f75-4ebf-9f2f-6b7622fffaed" width="400" alt="Poyecto Biblioteca"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/RoniPeve/ProyectoBiblioteca" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -32,11 +32,11 @@
 <div align="center">                                       
 <a href="https://github.com/RoniPeve/Expert-Doctor" target="_blank"><img src="https://github.com/RoniPeve/Expert-Doctor/assets/55811703/e9bbbc07-7a05-4842-a917-e150fa1a5df1" width="400" alt="Expert Doctor"></a>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/RoniPeve/Expert-Doctor" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>es un sistema diseñado para diagnosticar enfermedades a través de los síntomas que el usuario selecciona, además de proporcionar información relevante sobre la enfermedad diagnosticada.</p>
+</p>Es un sistema diseñado para diagnosticar enfermedades a través de los síntomas, además de proporcionar información relevante sobre la enfermedad diagnosticada. <br>La base de conocimiento del sistema se fundamenta en una base de datos alojada en SQL Server, la cual contiene información detallada sobre diversas enfermedades y sus síntomas asociados. </p>
 </div>                                                             
 </table>                                                                                 
 </div>
