@@ -51,7 +51,7 @@
 <a href="https://store.steampowered.com/app/1854580/In_The_Space__Escape_Room/" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1854580/ss_d1d3b26125d61cf0da808aa47356169a20f42cb3.600x338.jpg?t=1658006695" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://store.steampowered.com/app/1854580/In_The_Space__Escape_Room/" target="_blank">
-<img src="https://img.shields.io/badge/Enlace-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/-Enlace-green?style=for-the-badge&color=ff00f4">
 </a>
 <a href="https://www.youtube.com/watch?v=bcFc8-iyqus" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
@@ -68,7 +68,7 @@
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2238410/ss_0be51e586472c29ba9031fbacf69978007a1f4a3.600x338.jpg?t=1671034094" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://store.steampowered.com/app/2238410/The_kidnapped_Escape_Room/" target="_blank">
-<img src="https://img.shields.io/badge/Enlace-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/-Enlace-green?style=for-the-badge&color=ff00f4">
 </a>
 <a href="https://www.youtube.com/watch?v=V6IB42WHkko" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
