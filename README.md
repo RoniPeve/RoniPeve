@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Roni 👋</h1>
 </div>
-<!--<img src="https://i.imgur.com/weNbhGZ.png">-->
+<img src="https://github.com/RoniPeve/RoniPeve/assets/55811703/4e5f6ba9-8512-46ce-a6f4-c1ac9dfc043b">
 
 
 ## Sobre mi
